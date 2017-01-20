@@ -4,11 +4,11 @@
 Python3
 
 ###Libraries used:
-Tweepy
-SQLAlchemy(ORM)
-pyinotify
-threading 
-yaml
+Tweepy<br>
+SQLAlchemy(ORM)<br>
+pyinotify<br>
+threading <br>
+yaml<br>
 
 ###Database: 
 PostgreSQL 9.5
