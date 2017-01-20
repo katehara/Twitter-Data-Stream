@@ -7,9 +7,9 @@ db:
 
 stream:
     handle: ['handle1', 'handle2']
-    hashtag: ['#hash1','#hash2]
+    hashtag: ['#hash1','#hash2']
 
-settings: 
+settings:
     ck: 'consumer_key'
     cs: 'consumer_secret'
     at: 'access_token'
