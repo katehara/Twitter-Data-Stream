@@ -1,0 +1,16 @@
+db:
+    database: 'database_name'
+    user: 'postgres_user'
+    pswd: 'postgres_user_password'
+    host: 'localhost_or_ip'
+    port: '5432'
+
+stream:
+    handle: ['handle1', 'handle2']
+    hashtag: ['#hash1','#hash2]
+
+settings: 
+    ck: 'consumer_key'
+    cs: 'consumer_secret'
+    at: 'access_token'
+    ats: 'access_token_secret'
