@@ -1,0 +1,5 @@
+settings:
+    ck: 'consumer_key'
+    cs: 'consumer_secret'
+    at: 'access_token'
+    ats: 'access_token_secret'
